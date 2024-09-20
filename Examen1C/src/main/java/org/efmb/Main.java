@@ -1,6 +1,9 @@
 package org.efmb;
 
 import java.util.Scanner;
+import models.Clerk;
+import models.DeliveryPerson;
+import models.Salesperson;
 
 public class Main {
     public static void main(String[] args) {
