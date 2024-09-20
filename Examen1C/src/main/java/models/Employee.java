@@ -1,6 +1,6 @@
 package models;
 
-import interfaces.Employable;
+import Interfaces.Employable;
 
 public abstract class Employee implements Employable {
     protected String id;
